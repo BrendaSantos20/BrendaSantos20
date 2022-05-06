@@ -1,16 +1,14 @@
-Olá, eu sou a Brenda!
 
-<!--
-**BrendaSantos20/BrendaSantos20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou a Brenda 👩🏼‍💻 
 
-Here are some ideas to get you started:
+_Estudante de **Programação** Front-end._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img  align="right" src="https://user-images.githubusercontent.com/97129503/167208346-39171b2c-53b7-49f7-9a75-c32cc26600e5.jpg" width="400px"/>
+
+
+
+
+
+
+- 💻HTML | CSS | JavaScript | PHP
+- 💻 Buscando minha primeira oportunidade no mundo tecnologico. 
