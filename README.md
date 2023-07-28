@@ -10,5 +10,5 @@ _Front-end, UX|UI Designer_
 
 
 
-- 💻HTML | CSS | JavaScript | PHP
-- 💻 Buscando minha primeira oportunidade no mundo tecnologico. 
+- 💻HTML | CSS | JavaScript | PHP | UX|UI
+- 💻 Buscando uma oportunidade na tecnolgia. 
